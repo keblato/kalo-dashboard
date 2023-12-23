@@ -1,0 +1,20 @@
+{
+    "Home": {
+        "title": "Hello world!"
+    },
+    "Login": {
+        "title": "Inicia sesión",
+        "email": "Correo electrónico",
+        "email_placeholder": "Escribe aquí tu correo",
+        "password": "Contraseña",
+        "password_placeholder": "Escribe aquí tu contraseña",
+        "forgot_password": "¿Olvidaste tu contraseña?",
+        "login": "Iniciar sesión",
+        "register": "Registrate",
+        "not_registered_yet": "¿Aún no estas registrado?",
+        "login_error": "Inicio de sesión fallido. Por favor, inténtalo nuevamente más tarde."
+    },
+    "ERROR": {
+        "LOGIN_ERROR": "Ha ocurrido un error iniciado sesión"
+    }
+}
